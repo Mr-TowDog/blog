@@ -1,0 +1,10 @@
+:root {
+    --shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+    --backColor: linear-gradient(to right, #437cb6, #ca6f6c);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
